@@ -11,7 +11,7 @@
   "currently_working_on": "xNasuni/Libs",
   "known_languages": {
     "english",
-    "Spanish",
+    "spanish",
     "fluent"
   }
 }
