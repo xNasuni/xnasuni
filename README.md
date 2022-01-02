@@ -8,7 +8,7 @@
     "coding_language": "lua",
     "color": "pink",
   },
-  "currently_working_on": "xNasuni/Libs",
+  "currently_working_on": "xnasuni/libs",
   "known_languages": {
     "english",
     "spanish",
