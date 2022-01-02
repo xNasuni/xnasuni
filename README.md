@@ -3,7 +3,7 @@
 ### Information
 ```json
 {
-  "pronouns": "She / Her",
+  "pronouns": "she - her",
   "favorites": {
     "coding_language": "lua",
     "color": "pink",
