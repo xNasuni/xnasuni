@@ -6,7 +6,7 @@
   "pronouns": "she - her",
   "favorites": {
     "coding_language": "lua",
-    "color": "pink"
+    "color": "purple"
   },
   "currently_working_on": "xnasuni/libs",
   "known_languages": {
