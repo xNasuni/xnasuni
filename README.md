@@ -1,18 +1,16 @@
-# I'm Alia!
+# Hi!
 ---
 ### Information
 ```json
 {
-  "pronouns": "she - her",
   "favorites": {
     "coding_language": "lua",
-    "color": "purple"
+    "color": ["baby_blue", "black"]
   },
   "currently_working_on": "xnasuni/libs",
   "known_languages": {
-    "english",
-    "spanish",
-    "fluent"
+    "english": "fluent",
+    "spanish": "fluent",
   }
 }
 ```
@@ -26,7 +24,7 @@
 | CSS | ███████░░░ (70) |
 | Python | ███░░░░░░░ (30) |
 ---
-### My contacts are:
+### contacts are:
 | Contact | Platform |
 | --- | --- |
 | xNasuni#0209 | Discord |
