@@ -27,5 +27,5 @@
 ### contacts are:
 | Contact | Platform |
 | --- | --- |
-| xNasuni#0209 | Discord |
+| xNasuni#0001 | Discord |
 | xNasuni_ | Twitter |
