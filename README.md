@@ -4,8 +4,8 @@
 ```json
 {
   "favorites": {
-    "coding_language": "lua",
-    "color": ["baby_blue", "black"]
+    "coding_language": "java",
+    "color": ["pink", "black"]
   },
   "currently_working_on": "xnasuni/libs",
   "known_languages": {
@@ -16,13 +16,16 @@
 ```
 ##
 ### The languages I know are:
-| Language | Knowledge |
+| Language | Level |
 | --- | --- |
+| Java | ██████████ (100) |
 | Lua | █████████░ (90) |
+| C# | █████████░ (90) |
+| CSS | ████████░ (90) |
 | JS & NodeJS | ████████░░ (80) |
 | HTML | ██████░░░░ (60) |
-| CSS | ███████░░░ (70) |
-| Python | ███░░░░░░░ (30) |
+| C++ | ██░░░░░░ (20) |
+| Python | ██░░░░░░░░ (20) |
 ---
 ### contacts are:
 | Contact | Platform |
