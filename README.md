@@ -7,7 +7,7 @@
 {
   "favorites": {
     "coding_language": "nodejs",
-    "color": ["pink", "black"]
+    "color": ["pink", "white"]
   },
   "currently_working_on": "xnasuni/libs",
   "known_languages": {
