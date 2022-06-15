@@ -1,6 +1,6 @@
 # 👋
 
-#### My name is Mia and I am a sensitive person who likes to help others but not to the point of being a doormat for someone! I am a 13 year old female hobbyist that programs, I know a few coding languages, I know 2 languages, English and Spanish and I love to waste my life span by endlessly scrolling through tik-tok 9 hours a day. My pronouns are she/her and I would love to be your friend! \:heart:
+##### My name is Mia and I am a sensitive person who likes to help others but not to the point of being a doormat for someone! I am a 13 year old female hobbyist that programs, I know a few coding languages, I know 2 languages, English and Spanish and I love to waste my life span by endlessly scrolling through tik-tok 9 hours a day. My pronouns are she/her and I would love to be your friend! \:heart:
 ---
 ### Information
 ```json
