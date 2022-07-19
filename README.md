@@ -32,5 +32,5 @@
 ### contacts are:
 | Contact | Platform |
 | --- | --- |
-| xNasuni#6983 | Discord |
+| mia.❤#6983 | Discord |
 | xNasuni_ | Twitter |
