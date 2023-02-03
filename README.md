@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-#### I'm Mia, I'm a girl, my pronouns are she/her and I'm a sensitive person who likes to help others. I am a developer that programs nonsense, I know a few coding languages (listed below), I know 2 languages, English and Spanish, I love to waste my life span by doing nothing important for this world and I would love to be your friend! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/red-heart_2764-fe0f.png" width="16px">
+#### I'm Mia, I'm a girl, my pronouns are she/her and I'm a sensitive person who likes to help others. I am a developer that programs nonsense, I know a few coding languages (listed below), I know 2 languages, English and Spanish, I love to waste my life span by doing nothing important for this world and I would love to be your friend! <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="16px">
 ---
 My favorite coding language is NodeJS, my favorite color combo is any color that's not black or white, and then black or white. I speak spanish and english fluently and I mostly create Standalone things like my global audio attentuation (like discord attentuation but for every application), my favorite IDE for Minecraft plugins is eclipse, but for minecraft mods I would use IntelliJ IDEA, for NodeJS I use Visual Studio Code, and for C# I use Visual Studio.
 
