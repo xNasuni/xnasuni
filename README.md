@@ -1,10 +1,16 @@
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="32px">
->  I'm **Mia**, I'm a **girl**, my pronouns are **she/her** and I'm a sensitive person who likes to **help** others. I am a **developer** that programs **nonsense**, I know a *few* coding languages (listed below), I know 2 languages, English and Spanish, I love to waste my life span by doing nothing important for this world and I would **love** to be your friend! <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="16px">
+# hi -w- <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="32px">
+>  I'm **Mia**, I'm a **girl**, my pronouns are **she/her** and I'm a sensitive person who likes to **help** others, feel free to ask me any questions, I am a **developer**/**programmer** that makes random **things**, I know a *few* coding languages (listed below), I know 2 languages, English and Spanish, and I hope you have a great day! <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="16px">
 ---
-My **favorite** coding language is **C#**, my favorite color combo is any color that's not black or white, and then black or white (pink and white, blue and black). I speak **Spanish** and **English** fluently and I mostly create Standalone things like my **global** audio attenuation **(not out yet)** (like discord attenuation but for every application) or my [Opera GX Profile Switcher](https://github.com/xNasuni/ProfileSwitcher) which is just a **QOL** (Quality of Life) thing, my ideal IDE for Minecraft plugins, Minecraft Mods and Java Projects is IntelliJ IDEA, for NodeJS & others I use Visual Studio Code, and for C# and C++ I use Visual Studio.
+> **Colors**<br/>
+> My favorite color isn't just a color, it's more of a combo of two colors, the combo being any color that's not black or white, and then black or white (e.g. pink and white, blue and black).<br/>
+> <br/>**Linguistics**<br/>
+> I speak **Spanish** and **English** fluently, and my first language was **Spanish**.<br/>
+> <br/>**Programming**<br/>
+> I've created UI Applications like my [**`Opera GX Profile Switcher`**](https://github.com/xNasuni/ProfileSwitcher)
+>  I mostly create random things that are probably only useful to me like my [Opera GX Profile Switcher](https://github.com/xNasuni/ProfileSwitcher) which is just a **QOL** (Quality of Life) thing, my ideal IDE for Minecraft plugins, Minecraft Mods and Java Projects is IntelliJ IDEA, for NodeJS & others I use Visual Studio Code, and for C# and C++ I use Visual Studio.
 
-I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and do sound design 🎧.
->##### I don't care that HTML and CSS aren't programming languages, I said they were just languages
+I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and do sound design 🎧. (but barely except edit videos and sound design im kinda good at those)
+>##### I don't care that HTML and CSS aren't programming languages :c
 
 
 | *Programming* Languages | Skill / Knowledge |
@@ -24,7 +30,7 @@ I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and 
 ### wanna talk?
 | Contact | Platform |
 | --- | --- |
-| Miaa#6983 | Discord |
+| `xnasuni` (temporary, will change) | Discord |
 | xNasuni_ | Twitter |
 
 Made with ♡ by [Mia](https://github.com/xNasuni)
