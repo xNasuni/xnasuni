@@ -30,7 +30,7 @@ I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and 
 ### wanna talk?
 | Contact | Platform |
 | --- | --- |
-| `xnasuni` (temporary, will change) | Discord |
+| `lastingsunset` | Discord |
 | xNasuni_ | Twitter |
 
 Made with ♡ by [Mia](https://github.com/xNasuni)
