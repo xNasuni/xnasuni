@@ -32,5 +32,7 @@ I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and 
 | --- | --- |
 | `lastingsunset` | Discord |
 | xNasuni_ | Twitter |
+| `bc1qszglkavm9gjm446llrclr2ey9hpgj04hzxk2y5` | Bitcoin |
+| `0x639A7468c1197E85f4DD3101561a44ECCFa2de7f` | Ethereum |
 
 Made with ♡ by [Mia](https://github.com/xNasuni)
