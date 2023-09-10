@@ -31,7 +31,11 @@ I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and 
 | Contact | Platform |
 | --- | --- |
 | `lastingsunset` | Discord |
-| xNasuni_ | Twitter |
+| `xNasuni_` | Twitter |
+### wanna donate?
+| Address / Link | Platform |
+| --- | --- |
+| https://paypal.me/thatonemia | PayPal
 | `bc1qszglkavm9gjm446llrclr2ey9hpgj04hzxk2y5` | Bitcoin |
 | `0x639A7468c1197E85f4DD3101561a44ECCFa2de7f` | Ethereum |
 
