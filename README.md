@@ -1,17 +1,16 @@
 # hi -w- <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="32px">
->  I'm **Mia**, I'm a **girl**, my pronouns are **she/her** and I'm a sensitive person who likes to **help** others, feel free to ask me any questions, I am a **developer**/**programmer** that makes random **things**, I know a *few* coding languages (listed below), I know 2 languages, English and Spanish, and I hope you have a great day! <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="16px">
+>  I'm **Mia**, I'm a girl and my pronouns are **she/her** and I'm a person who tries to **help** others, feel free to ask me any questions, even if you feel like they are dumb. I've asked plenty of dumb questions too lol, I am a developer/programmer—more info below—I know a *few* coding languages (listed below), and I hope you have a great life! <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="16px"><br/><br/>
+![stats](https://github-readme-stats.vercel.app/api?username=xNasuni&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ---
 > **Colors**<br/>
-> My favorite color isn't just a color, it's more of a combo of two colors, the combo being any color that's not black or white, and then black or white (e.g. pink and white, blue and black).<br/>
+> I like blue and pink but my favorites are more of a combo like monochrome sets, like red and black, pink and white, blue and black, am I the only one? 😭<br/>
 > <br/>**Linguistics**<br/>
-> I speak **Spanish** and **English** fluently, and my first language was **Spanish**.<br/>
+> I speak **Spanish** and **English** fluently, and my first ever language was **Spanish**.<br/>
 > <br/>**Programming**<br/>
-> I've created UI Applications like my [**`Opera GX Profile Switcher`**](https://github.com/xNasuni/ProfileSwitcher)
->  I mostly create random things that are probably only useful to me like my [Opera GX Profile Switcher](https://github.com/xNasuni/ProfileSwitcher) which is just a **QOL** (Quality of Life) thing, my ideal IDE for Minecraft plugins, Minecraft Mods and Java Projects is IntelliJ IDEA, for NodeJS & others I use Visual Studio Code, and for C# and C++ I use Visual Studio.
+> I sometimes might create decent projects but most of them are just random things that are probably only useful to me or like 4 other people that have the same issue as me, my ideal IDE for Minecraft plugins, Minecraft Mods and Java Projects is IntelliJ IDEA, for NodeJS & others I use Visual Studio Code, and for C# and C++ I use Visual Studio.
 
-I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and do sound design 🎧. (but barely except edit videos and sound design im kinda good at those)
->##### I don't care that HTML and CSS aren't programming languages :c
-
+I also make music 🎵, model 🧱, edit videos 📼, creative writing 📒, and do sound design 🎧.
+>##### Ik HTML and CSS aren't programming languages but still :c
 
 | *Programming* Languages | Skill / Knowledge |
 | --- | --- |
@@ -20,19 +19,18 @@ I also make music 🎵, animate & draw ✒️, model 🧱, edit videos 📼 and 
 | <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"  width="16px"/> Lua & Luau| █████████░ (90) |
 | <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="16px"/> Java | ████████░░ (80) |
 | <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="16px"/>  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="16px"/> HTML & CSS | ███████░░░ (70) |
-| <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="16px"/> Python | █████░░░░░ (50) |
-| <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  width="16px"/> Swift | ██░░░░░░░░ (20) |
+| <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="16px"/> Python | ███░░░░░░░ (30) |
+| <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  width="16px"/> Swift | █░░░░░░░░░ (10) |
 | <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="16px"/> C++ | █░░░░░░░░░ (10) |
 --- 
-
-
 
 ### wanna talk?
 | Contact | Platform |
 | --- | --- |
 | `lastingsunset` | Discord |
-| `xNasuni_` | Twitter |
+| [`xNasuni_`](https://x.com/xNasuni_) | Twitter |
 ### wanna donate?
+###### (you aren't forced to at all <3)
 | Address / Link | Platform |
 | --- | --- |
 | https://paypal.me/thatonemia | PayPal
