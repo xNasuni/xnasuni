@@ -1,7 +1,7 @@
 # hi -w- <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="32px">
 >  I'm **Mia**, I'm a girl and my pronouns are **she/her** and I'm a person who tries to **help** others, feel free to ask me any questions, even if you feel like they are dumb. I've asked plenty of dumb questions too lol, I am a developer/programmer—more info below—I know a *few* coding languages (listed below), and I hope you have a great life! <img src="https://em-content.zobj.net/thumbs/160/twitter/154/heavy-black-heart_2764.png" width="16px"><br/><br/>
 ![stats](https://github-readme-stats.vercel.app/api?username=xNasuni&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)<br/>
-> <img src="https://komarev.com/ghpvc/?username=xnasuni&label=how many humans laid thier eyes on this text since 10/02/2023&color=dd6387&style=flat" alt="mia" />
+> <img src="https://komarev.com/ghpvc/?username=xnasuni&color=dd6387&style=flat" alt="views" />
 ---
 > **Colors**<br/>
 > I like blue and pink but my favorites are more of a combo like monochrome sets, like red and black, pink and white, blue and black, am I the only one? 😭<br/>
