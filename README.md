@@ -36,7 +36,6 @@ I also make music 🎵, model 🧱, edit videos 📼, creative writing 📒, and
 ###### (you aren't forced to at all <3)
 | Address / Link | Platform |
 | --- | --- |
-| https://paypal.me/thatonemia | PayPal
 | `bc1qszglkavm9gjm446llrclr2ey9hpgj04hzxk2y5` | Bitcoin |
 | `0x639A7468c1197E85f4DD3101561a44ECCFa2de7f` | Ethereum |
 
