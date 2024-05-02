@@ -8,10 +8,10 @@
 > <br/>**Linguistics**<br/>
 > I speak **Spanish** and **English** fluently, and my first ever language was **Spanish**. *(im hispanic also pls dont dox me)*<br/>
 > <br/>**Programming**<br/>
-> I sometimes might create decent projects but most of them are just random things that are probably only useful to me or like 4 other people that have the same issue as me, my ideal IDE for Minecraft plugins, Minecraft Mods and Java Projects is IntelliJ IDEA, for NodeJS & others I use Visual Studio Code, and for C# and C++ I use Visual Studio.
+> I sometimes might create decent projects but most of them are private or just random things that are probably only useful to me or like 4 other people in the wrodl that have the same issue as me, my ideal IDE for Minecraft plugins, Minecraft Mods and Java Projects is IntelliJ IDEA, for NodeJS & others I use Visual Studio Code, and for C# and C++ I use Visual Studio.
 > ###### in some cases i use vim but we dont talk about vim
 
-I also make music 🎵, model 🧱, edit videos 📼, creative writing 📒, and do sound design 🎧 *(but not as good as programming which is my main "talent")*
+I also make (bad) music 🎵, (bad) 3d model 🧱, (decent) edit videos 📼, (good) creative writing 📒, and (decent) do sound design 🎧 *(but not as good as programming which is my main "talent")*
 >###### Ik HTML and CSS aren't programming languages but still :c
 
 | *Programming* Languages | Skill / Knowledge |
@@ -33,7 +33,7 @@ I also make music 🎵, model 🧱, edit videos 📼, creative writing 📒, and
 | [`xNasuni`](https://guilded.gg/u/xNasuni) | Guilded |
 | [`xNasuni_`](https://x.com/xNasuni_) | Twitter |
 ### wanna donate?
-###### (you aren't forced to at all <3)
+###### (don't feel forced to at all <3)
 | Address / Link | Platform |
 | --- | --- |
 | `bc1qszglkavm9gjm446llrclr2ey9hpgj04hzxk2y5` | Bitcoin |
